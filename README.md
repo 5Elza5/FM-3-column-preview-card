@@ -36,8 +36,8 @@ Hover states:
 
 ### Links
 
-- Solution URL: [Solution URL here](https://your-solution-url.com)
-- Live Site URL: [Live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL here](https://www.frontendmentor.io/solutions/3-column-preview-card-solution-html-and-css-flexbox-and-mobile-first-R7mk8Un1T)
+- Live Site URL: [Live site URL here](https://5elza5.github.io/FM-3-column-preview-card/)
 
 ## My process
 
